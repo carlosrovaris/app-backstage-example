@@ -5,6 +5,7 @@ metadata:
   description: app-backstage-example for testing
   annotations:
     github.com/project-slug: carlosrovaris/app-backstage-example
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: service
   owner: development

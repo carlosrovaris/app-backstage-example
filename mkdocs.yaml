@@ -1,0 +1,12 @@
+site_name: 'app-backstage-example'
+site_description: 'Main documentation for app-backstage-example'
+repo_url: https://github.com/carlosrovaris/app-backstage-example
+edit_uri: edit/main/docs
+
+plugins:
+  - techdocs-core
+
+# For sidebar navigation on https://backstage.io/, see `microsite/sidebars.js`
+nav:
+  - Overview:
+      - Getting Started?: 'docs/index.md'
